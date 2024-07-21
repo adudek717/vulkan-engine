@@ -6,6 +6,9 @@ Vulkan rendering engine I am currently working on.
 
 In-progress
 
+Currently displaying just a triangle:
+![triangle](images/triangle.png)
+
 ## Getting Started
 
 ### Dependencies
